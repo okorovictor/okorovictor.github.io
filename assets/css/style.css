@@ -47,4 +47,27 @@ section {
     .contact {
       color: rgb(15, 128, 166);
     }
-  }
+}
+
+/* Styles for counter */
+
+.counter-body {
+    background-color: #99ccff;
+    height: 100vh;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.btn {
+    padding: 15px;
+    font-size: large;
+    border-radius: 5px;
+    border: none;
+}
+
+.btn:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
