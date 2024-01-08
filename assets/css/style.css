@@ -29,5 +29,17 @@ section {
     flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-around;    
+    justify-content:space-around; 
+    
+    background-image: url('https://images.unsplash.com/photo-1704580104899-e99a78c4804b?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+
+    color:aliceblue;
+    font-size: larger;
+}
+
+.contact {
+    background-image: url('https://images.unsplash.com/photo-1499159058454-75067059248a?q=80&w=871&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    
 }
